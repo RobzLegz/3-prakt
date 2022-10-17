@@ -40,15 +40,15 @@ public class piektais {
             sint = a;
         }
 
-        if (a >= b & b == 0) {
-            System.out.println("Result: " + a);
-            return;
-        }
+        c = bint % sint;
 
-        if (b != 0) {
-            c = bint % sint;
-            nod(b, c);
+        if(c == 0){
+            System.out.println("Result: " + sint);
+
+            return ;
         }
+        
+        nod(b, c);
     }
 
     public static void main(String[] args) {
