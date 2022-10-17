@@ -29,25 +29,33 @@ public class piektais {
         return n;
     }
 
-    public static void nod(int a, int b){
-        int bint, sint;
+    public static void nod(double a, double b) {
+        double bint, sint, c;
 
-        if(a > b){
-            bint = a;
-            sint = b;
-        }else{
+        bint = a;
+        sint = b;
+
+        if (b > a) {
             bint = b;
             sint = a;
         }
 
-        
+        if (a >= b & b == 0) {
+            System.out.println("Result: " + a);
+            return;
+        }
+
+        if (b != 0) {
+            c = bint % sint;
+            nod(b, c);
+        }
     }
 
     public static void main(String[] args) {
-        System.out.println("Enter a: ");
+        System.out.print("Enter a: ");
         int a = getNumber();
 
-        System.out.println("Enter b: ");
+        System.out.print("Enter b: ");
         int b = getNumber();
 
         nod(a, b);
