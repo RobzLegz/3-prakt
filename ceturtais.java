@@ -30,7 +30,7 @@ class ceturtais {
     }
 
     public static double h(int a, int b) {
-        double h = (int) (a / (1 + b * b) + b / (1 + a * a) - Math.pow((a - b), 3)) / (a * b);
+        double h = (int) a / (1 + b * b) + b / (1 + a * a) - Math.pow((a - b), 3);
 
         return h;
     }
