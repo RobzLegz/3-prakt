@@ -1,6 +1,6 @@
 # Java 2. praktiskais darbs
 
-## Roberts Legzdiņš
+## Roberts Legzdiņš P1-2
 
 Praktiskie uzdevumi Java programmēšanas valodā
 
