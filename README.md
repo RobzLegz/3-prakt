@@ -38,8 +38,9 @@ Piemēram, skaitlim n=12 tāda sadalīšana būs 12 = 2·2·3
 
 ## 4. uzdevums
 
-Aprēķināt izteiksmi: h(s, t) + h(s - t, st) + h(1, 1);
+Aprēķināt izteiksmi: h(s, t) + h(s - t, s*t) + h(1, 1);
 
+![image](https://user-images.githubusercontent.com/62758448/197512912-d2906df5-dceb-4c82-8eb2-98d62cf8ebd8.png)
 
 ir lietotāja definēta funkcija.
 
