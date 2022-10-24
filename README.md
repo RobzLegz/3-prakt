@@ -67,6 +67,8 @@ class Pirmais {
 
 ### Rezultāts:
 
+![image](https://user-images.githubusercontent.com/62758448/197532067-1caee7af-9111-45f0-b051-30362dcbcb54.png)
+
 ## 2. uzdevums
 
 Ir dotie veselie skaitļi a un b. Izvadīt uz ekrāna visus skaitļus, kas atrodas diapazonā a...b, un kuru
@@ -133,6 +135,9 @@ public class otrais {
 ```
 
 ### Rezultāts:
+
+![image](https://user-images.githubusercontent.com/62758448/197532350-8b2568e3-0069-498c-b884-9b51ef8d9b40.png)
+
 
 ## 3. uzdevums
 
@@ -213,6 +218,8 @@ public class tresais {
 
 ### Rezultāts:
 
+![image](https://user-images.githubusercontent.com/62758448/197532636-fef684f5-c4ee-440e-94fe-63c16f1a5b10.png)
+
 ## 4. uzdevums
 
 Aprēķināt izteiksmi: h(s, t) + h(s - t, s \* t) + h(1, 1);
@@ -281,6 +288,8 @@ class ceturtais {
 ```
 
 ### Rezultāts:
+
+![image](https://user-images.githubusercontent.com/62758448/197532811-1e853589-1315-49dd-9d2e-0181dcb8ca9e.png)
 
 ## 5. uzdevums
 
@@ -362,6 +371,8 @@ public class piektais {
 ```
 
 ### Rezultāts:
+
+![image](https://user-images.githubusercontent.com/62758448/197532946-f058b7bf-1180-4af9-8fd3-ac3932a4680f.png)
 
 ## Secinājumi
 Nebija lielas aizķeršanās. Radās nelielas neskaidrības, bet pēc kārtīgas iedziļināšanās, tās pazuda. Manuprāt uzdevumus izpildīju veiksmīgi.
